@@ -23,3 +23,5 @@ def page3():
 @app.route("/getNumber")
 def page4():
     return "10"
+
+app.run()
